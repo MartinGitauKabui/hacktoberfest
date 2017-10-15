@@ -704,3 +704,7 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+### NAME : [MartinGitauKabui](https//github.com/MartinGitauKabui)
+-place : Ruiru, Kenya
+-Bio : lets make the world a better place
+- github : MartinGitauKabui(https//github.com/MartinGitauKabui)
